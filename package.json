@@ -1,5 +1,5 @@
 {
-  "name": "@megalo/eslint-config-standard",
+  "name": "@megalo/eslint-config-typescript",
   "version": "1.0.0-alpha.1",
   "description": "eslint-config-standard for megalo project",
   "main": "./lib/index.js",
